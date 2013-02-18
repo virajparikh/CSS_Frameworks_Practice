@@ -1,0 +1,46 @@
+#top-left {
+	background-color: grey;
+	height: 80px;
+
+}
+
+#center-left {
+	background-color: grey;
+	height: 80px;
+}
+
+#center-right {
+	background-color: grey;
+	height: 80px;
+}
+
+#right {
+	background-color: grey;
+	height: 260px;
+	float: right;
+}
+
+#bottom-left {
+	background-color: grey;
+	height: 160px;
+	margin-top: 20px;
+	
+}
+
+#middle-top {
+	background-color: grey;
+	height: 40px;
+	margin-top: 20px;
+}
+
+#middle-center {
+	background-color: grey;
+	height: 40px;
+	margin-top: 20px;
+}
+
+#middle-bottom {
+	background-color: grey;
+	height: 40px;
+	margin-top: 20px;
+}
